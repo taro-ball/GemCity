@@ -1,6 +1,6 @@
 # GemCity
 ## WebGLDemo
-Try the demo of the game here:https://taro-ball.github.io/GemCity/
+Try the demo of the game here: https://taro-ball.github.io/GemCity/
 
 ## Executables
 - [The WEBGL executable](/docs)
