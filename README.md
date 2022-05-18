@@ -10,6 +10,10 @@ Try the demo of the game here: https://taro-ball.github.io/GemCity/
 - [Windows executable](https://github.com/taro-ball/GemCity/raw/master/GemCityWindows.zip)
 - [Android APK](https://github.com/taro-ball/GemCity/raw/master/GemCity.apk)
 
+## Code 
+- [Unity Project](/GemCity_Project)
+
+Most of the code is under `Assets/0Scripts`. Sorry, couldn't include the paid asset packs as they were provided by the uni for study purposes only. Check the meta files under `Assets/zExt` for pack names.
 
 ---
 Big thanks to my Unity course lecturer and my fellow classmates for support and guidance.
