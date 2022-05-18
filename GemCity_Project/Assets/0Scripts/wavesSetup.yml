@@ -1,0 +1,22 @@
+waves:
+  - enemy: {fileID: 7713611447120782809, guid: 5927fc5088eb6e04c89c6e2788db54da, type: 3}
+    count: 6
+    rate: 1.1
+  - enemy: {fileID: 7713611447120782809, guid: 5927fc5088eb6e04c89c6e2788db54da, type: 3}
+    count: 10
+    rate: 1.1
+  - enemy: {fileID: 432375418415783997, guid: 2e7dcba51dd221b4581bf6ca3eb9e325, type: 3}
+    count: 6
+    rate: 1.1
+  - enemy: {fileID: 432375418415783997, guid: 2e7dcba51dd221b4581bf6ca3eb9e325, type: 3}
+    count: 10
+    rate: 1.1
+  - enemy: {fileID: 58475686337672598, guid: 37d565e6468a01a4bb5d96614f3098e1, type: 3}
+    count: 6
+    rate: 1.1
+  - enemy: {fileID: 58475686337672598, guid: 37d565e6468a01a4bb5d96614f3098e1, type: 3}
+    count: 10
+    rate: 1.1
+  - enemy: {fileID: 7713611447120782809, guid: ebecd39174534014fb71183407163019, type: 3}
+    count: 1
+    rate: 1.1
